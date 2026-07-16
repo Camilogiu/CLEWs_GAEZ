@@ -16,6 +16,7 @@ Contributors:
 ------------------------------------------------
 **[Yalda Saedi](https://github.com/Ysaedi)** - Developer<br />
 **[Taco Niet](https://github.com/tniet)** - Supervisor<br />
+**[Camilla Lo Giudice](https://github.com/Camilogiu)** - Contributor (Version 3.0.0)<br />
 
 
 Release Notes
@@ -56,6 +57,10 @@ To set up the environment, run the following command:
 
     conda env create -f environment.yml
     conda activate GeoCLEWs
+
+Test the repository
+------------------------------------------------
+The Data/input folder contains the shapefiles for Zambia required to run the GeoCLEWs v3 Jupyter notebook with the default settings.
 
 Download Files and Data
 --------------------------------------------------
